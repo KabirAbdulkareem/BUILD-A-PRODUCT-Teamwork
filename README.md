@@ -14,7 +14,3 @@ Teamwork is an internal social network for employees of an organization. The goa
 first.
 11. Employees can view a specific article.
 12. Employees can view a specific gif post.
-### Optional Features
-* Employees can view all articles that belong to a category (tag).
-* Employees can flag a comment, article and/or gif as inappropriate.
-* Admin can delete a comment, article and/or gif flagged as inappropriate.
